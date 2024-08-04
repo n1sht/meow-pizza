@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meow-pizza/static/css/main.ec313818.css",
+    "main.js": "/meow-pizza/static/js/main.65789de1.js",
+    "index.html": "/meow-pizza/index.html",
+    "main.ec313818.css.map": "/meow-pizza/static/css/main.ec313818.css.map",
+    "main.65789de1.js.map": "/meow-pizza/static/js/main.65789de1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.65789de1.js"
+  ]
+}
